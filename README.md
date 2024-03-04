@@ -262,9 +262,7 @@ $
 
 ## Authors & Copyrights
 
-* Masturah Ghali <[Undevcover](https://github.com/Undevcover)>
-* Aminu Shaibu <[elameen37](https://github.com/elameen37)>
-
+# Antipas Belihu
 ## More information
 
 **hsh** is a simple shell unix command interpreter that is part of the alx low level programming module at Alx Africa and is intended to emulate the basics **sh** shell. All the information given in this README is based on the **hsh** and **bash** man (1) pages.
